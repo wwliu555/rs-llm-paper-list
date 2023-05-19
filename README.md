@@ -6,7 +6,7 @@
 ### Knowledge Enhancement
 * Language Models as Recommender Systems: Evaluations and Limitations, _Amazon, ICBINB@NeurIPS2021, 19 Oct 2021._
   * **Paper link:** [https://openreview.net/pdf?id=hFx3fY7-m9b](https://openreview.net/pdf?id=hFx3fY7-m9b)
-  * **Adopted language model:** BERT (340 milllion) and GPT2 (1.5 billion)
+  * **Adopted language model:** BERT (340 milllion) and GPT-2 (1.5 billion)
 
 * M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, _Alibaba, Arxiv 2022, 19 May 2022._
   * **Paper link:** [https://arxiv.org/pdf/2205.08084.pdf](https://arxiv.org/pdf/2205.08084.pdf)
@@ -19,3 +19,7 @@
 * Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, _Fudan University, ArXiv 2023, 4 Apr 2023._
   * **Paper link:** [https://arxiv.org/pdf/2303.14524.pdf](https://arxiv.org/pdf/2303.14524.pdf)
   * **Adopted language model:** ChatGPT
+
+* Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, Singapore Management University. ArXiv 2023, 6 Apr 2023
+  * **Paper link:** [https://arxiv.org/pdf/2304.03153.pdf](https://arxiv.org/pdf/2304.03153.pdf)
+  * **Adopted language model:** GPT-3 (175 billion)
