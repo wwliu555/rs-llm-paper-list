@@ -12,7 +12,7 @@
   * **Paper link:** [https://arxiv.org/pdf/2205.08084.pdf](https://arxiv.org/pdf/2205.08084.pdf)
   * **Adopted language model:** M6 (10-100 billion)
  
-* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), R_utgers University, RecSys 2022, 18 Sep 2022._
+* Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), Rutgers University, RecSys 2022, 18 Sep 2022._
   * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3523227.3546767?casa_token=s3UwOJ1REN0AAAAA:v4II6fdXMjt8sArQcELa79oG0jTIl4BpMyeMCvQvG37K4GiOrPvlG2AcNgWll9mdmZTfL7lcT08](https://dl.acm.org/doi/pdf/10.1145/3523227.3546767?casa_token=s3UwOJ1REN0AAAAA:v4II6fdXMjt8sArQcELa79oG0jTIl4BpMyeMCvQvG37K4GiOrPvlG2AcNgWll9mdmZTfL7lcT08)
   * **Adopted language model:** T5 (11 billion)
 
