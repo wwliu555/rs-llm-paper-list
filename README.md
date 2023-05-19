@@ -23,3 +23,12 @@
 * Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, _Singapore Management University. ArXiv 2023, 6 Apr 2023._
   * **Paper link:** [https://arxiv.org/pdf/2304.03153.pdf](https://arxiv.org/pdf/2304.03153.pdf)
   * **Adopted language model:** GPT-3 (175 billion)
+
+* Uncovering ChatGPT's Capabilities in Recommender Systems, _Remin University of China, ArXiv 2023, 11 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.02182.pdf](https://arxiv.org/pdf/2305.02182.pdf)
+  * **Adopted language model:** ChatGPT and others
+
+* Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, _Google Research, ArXiv 2023, 10 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.06474.pdf](https://arxiv.org/pdf/2305.06474.pdf)
+  * **Adopted language model:** ChatGPT and Flan-U-PaLM (540 billion)
+
