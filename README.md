@@ -20,6 +20,6 @@
   * **Paper link:** [https://arxiv.org/pdf/2303.14524.pdf](https://arxiv.org/pdf/2303.14524.pdf)
   * **Adopted language model:** ChatGPT
 
-* Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, Singapore Management University. ArXiv 2023, 6 Apr 2023
+* Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, _Singapore Management University. ArXiv 2023, 6 Apr 2023._
   * **Paper link:** [https://arxiv.org/pdf/2304.03153.pdf](https://arxiv.org/pdf/2304.03153.pdf)
   * **Adopted language model:** GPT-3 (175 billion)
