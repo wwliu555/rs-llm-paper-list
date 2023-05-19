@@ -36,4 +36,8 @@
   * **Paper link:** [https://arxiv.org/pdf/2305.02182.pdf](https://arxiv.org/pdf/2305.02182.pdf)
   * **Adopted language model:** ChatGPT and others
 
+* A First Look at LLM-Powered Generative News Recommendation, _The Hong Kong Polytechnic University, ArXiv 2023, 11 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.06566.pdf](https://arxiv.org/pdf/2305.06566.pdf)
+  * **Adopted language model:** ChatGPT
+
 
