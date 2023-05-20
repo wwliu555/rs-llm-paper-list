@@ -1,6 +1,6 @@
 # Recommender Systems with Large Language Models (Paper List)
 
-This is an actively maintaing paper list on recommender systems with large language models. The adopted language models and the correspponding model size, the first pulication date, the first affiliation of the authors are also presented.
+This is an actively maintaing curated paper list on recommender systems with large language models. The adopted language models and the correspponding model size, the first pulication date, the first affiliation of the authors are also presented.
 
 ## Overview
 * [Related Survey Paper](#Related-Survey-paper)
