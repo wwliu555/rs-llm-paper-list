@@ -5,6 +5,17 @@
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
 ### Semantic Enhancement
+* Zeor-shot Recommender Systems. _Amazon, ArXiv 2021, 12 Oct 2021._
+  * **Paper link:** [https://arxiv.org/pdf/2105.08318.pdf](https://arxiv.org/pdf/2105.08318.pdf)
+  * **Adopted language model:** BERT (340 milllion)
+
+* Towards Universal Sequence Representation Learning for Recommender Systems, _Renmin University of China, KDD 2022, 14 Aug 2022._
+  * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3534678.3539381?casa_token=aJ-Ili7OeaAAAAAA:Kn_qnglaBAxZ8NUCVtcQ7AqM7q5GyQdzvwc8D8mKyFG0mMbvocmw5VQDNuvL3AH9wb9onPzYPTw](https://dl.acm.org/doi/pdf/10.1145/3534678.3539381?casa_token=aJ-Ili7OeaAAAAAA:Kn_qnglaBAxZ8NUCVtcQ7AqM7q5GyQdzvwc8D8mKyFG0mMbvocmw5VQDNuvL3AH9wb9onPzYPTw)
+  * **Adopted language model:** BERT (340 million)
+
+* Learning Vector-Qantized Item Representation for Transferable Sequential Recommenders,  _Renmin University of China, WWW 2023, 30 Apr 2023._
+  * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3543507.3583434?casa_token=yETRRb_bSf4AAAAA:yuyiF-BgL6uyjwbSCdN0Zia7OifGeZ-vHku5zETltYl8vYhp2eiw6Z9IySBFVKPbK170LPrm1ac](https://dl.acm.org/doi/pdf/10.1145/3543507.3583434?casa_token=yETRRb_bSf4AAAAA:yuyiF-BgL6uyjwbSCdN0Zia7OifGeZ-vHku5zETltYl8vYhp2eiw6Z9IySBFVKPbK170LPrm1ac)
+  * **Adopted language model:** BERT (340 million)
 
 
 ### Knowledge Enhancement
