@@ -1,5 +1,10 @@
 # Recommender Systems with Large Language Models (Paper List)
 
+## Overview
+* [Related Survey paper](#Related-Survey-paper)
+* [Semantic Enhancement](#Semantic-Enhancement)
+* [Knowledge Enhancement](#Knowledge-Enhancement)
+
 ### Related Survey paper
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, _Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023._
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
