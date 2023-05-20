@@ -40,7 +40,7 @@
   * **Paper link:** [https://arxiv.org/pdf/2305.06566.pdf](https://arxiv.org/pdf/2305.06566.pdf)
   * **Adopted language model:** ChatGPT
 
-* Large Language Models are Zero-Shot Rankers for Recommender Systems,_ Renmin University of China, ArXiv 2023, 15 May 2023._
+* Large Language Models are Zero-Shot Rankers for Recommender Systems, _Renmin University of China, ArXiv 2023, 15 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.08845.pdf](https://arxiv.org/pdf/2305.08845.pdf)
   * **Adopted language model:** ChatGPT
 
