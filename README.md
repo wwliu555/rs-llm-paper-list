@@ -48,6 +48,10 @@
   * **Paper link:** [https://arxiv.org/pdf/2305.07001.pdf](https://arxiv.org/pdf/2305.07001.pdf)
   * **Adopted language model:** Flan-T5-XL (3 billion)
 
+* PALR: Personalization Aware LLMs for Recommendation. _Drexel University, ArXiv 2023, 12 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.07622.pdf](https://arxiv.org/pdf/2305.07622.pdf)
+  * **Adopted language model:** LLaMa (7 billion)
+
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, _Renmin University of China, ArXiv 2023, 15 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.08845.pdf](https://arxiv.org/pdf/2305.08845.pdf)
   * **Adopted language model:** ChatGPT
