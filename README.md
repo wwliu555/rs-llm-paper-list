@@ -1,7 +1,7 @@
 # Recommender Systems with Large Language Models (Paper List)
 
 ### Related Survey paper
-* Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023.
+* Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, _Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023._
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
 ### Semantic Enhancement
@@ -44,9 +44,15 @@
   * **Paper link:** [https://arxiv.org/pdf/2305.06566.pdf](https://arxiv.org/pdf/2305.06566.pdf)
   * **Adopted language model:** ChatGPT
 
+* Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, _Remin University of China, ArXiv 2023, 11 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.07001.pdf](https://arxiv.org/pdf/2305.07001.pdf)
+  * **Adopted language model:** Flan-T5-XL (3 billion)
+
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, _Renmin University of China, ArXiv 2023, 15 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.08845.pdf](https://arxiv.org/pdf/2305.08845.pdf)
   * **Adopted language model:** ChatGPT
+
+* 
 
 
 
