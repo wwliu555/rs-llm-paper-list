@@ -3,11 +3,12 @@
 This is an actively maintaing paper list on recommender systems with large language models. The adopted language models and the correspponding model size, the first pulication date, the first affiliation of the authors are also presented.
 
 ## Overview
-* [Related Survey paper](#Related-Survey-paper)
+* [Related Survey Paper](#Related-Survey-paper)
 * [LLMs for Semantic Enhancement](#LLLMs-for-Semantic-Enhancement)
 * [LLMs for Knowledge Enhancement](#LLMs-for-Knowledge-Enhancement)
+* [Related Paper Repo](#Related-Paper-Repo)
 
-### Related Survey paper
+### Related Survey Paper
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, _Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023._
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
@@ -99,6 +100,8 @@ This is an actively maintaing paper list on recommender systems with large langu
   * **Paper link:** [https://arxiv.org/pdf/2305.07961.pdf](https://arxiv.org/pdf/2305.07961.pdf)
   * **Adopted language model:** LaMDA (137 billlion)
 
-
-
+### Related Paper Repo
+* [Recommender systems and pretrained models](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
+* [Recommender systems](https://github.com/creyesp/Awesome-recsys)
+* [Generative recommender systems](https://github.com/jihoo-kim/Awesome-Generative-RecSys)
 
