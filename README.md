@@ -102,6 +102,6 @@ This is an actively maintaing paper list on recommender systems with large langu
 
 ### Related Paper Repo
 * [Recommender systems and pretrained models](https://github.com/archersama/awesome-recommend-system-pretraining-papers) by archersama
-* [Recommender systems](https://github.com/creyesp/Awesome-recsys) by 
+* [Recommender systems](https://github.com/creyesp/Awesome-recsys) by creyesp
 * [Generative recommender systems](https://github.com/jihoo-kim/Awesome-Generative-RecSys) by jihoo-kim
 
