@@ -39,6 +39,10 @@
 * Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, _Google Research, ArXiv 2023, 10 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.06474.pdf](https://arxiv.org/pdf/2305.06474.pdf)
   * **Adopted language model:** ChatGPT and Flan-U-PaLM (540 billion)
+
+* Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, _Rutgers University, ArXiv 2023, 8 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.04518.pdf](https://arxiv.org/pdf/2305.04518.pdf)
+  * **Adopted language model:** ChatGPT
   
 * Uncovering ChatGPT's Capabilities in Recommender Systems, _Remin University of China, ArXiv 2023, 11 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.02182.pdf](https://arxiv.org/pdf/2305.02182.pdf)
@@ -55,6 +59,14 @@
 * PALR: Personalization Aware LLMs for Recommendation. _Drexel University, ArXiv 2023, 12 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.07622.pdf](https://arxiv.org/pdf/2305.07622.pdf)
   * **Adopted language model:** LLaMa (7 billion)
+
+* Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, _University of Science and Technology of China, ArXiv 2023, 12 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.07609.pdf](https://arxiv.org/pdf/2305.07609.pdf)
+  * **Adopted language model:** ChatGPT
+
+* How to Index Item IDs for Recommendation Foundation Models. _Rutgers University, ArXiv 2023, 12 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.06569.pdf](https://arxiv.org/pdf/2305.06569.pdf)
+  * **Adopted language model:** P5 (11 billion)
 
 * Large Language Models are Zero-Shot Rankers for Recommender Systems, _Renmin University of China, ArXiv 2023, 15 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.08845.pdf](https://arxiv.org/pdf/2305.08845.pdf)
