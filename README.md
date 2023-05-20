@@ -28,6 +28,10 @@
   * **Paper link:** [https://arxiv.org/pdf/2304.03153.pdf](https://arxiv.org/pdf/2304.03153.pdf)
   * **Adopted language model:** GPT-3 (175 billion)
 
+* TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, _University of Science and Technology of China, ArXiv 2023, 30 Apr 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.00447.pdf](https://arxiv.org/pdf/2305.00447.pdf)
+  * **Adopted language model:** LLaMa (7 billion)
+
 * Is ChatGPT a Good Recommender? A Preliminary Study, _Alibaba, ArXiv 2023, 20 Apr 2023._
   * **Paper link:** [https://arxiv.org/pdf/2304.10149.pdf](https://arxiv.org/pdf/2304.10149.pdf)
   * **Adopted language model:** ChatGPT 
