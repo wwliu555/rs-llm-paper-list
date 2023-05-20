@@ -5,6 +5,11 @@
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
 ### Semantic Enhancement
+* U-BERT: Pre-training user representations for improved recommendation, _Tencent, AAAI 2021, 18 May 2021._
+  * **Paper link:** [https://ojs.aaai.org/index.php/AAAI/article/view/16557](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
+  * **Adopted language model:** BERT (340 milllion)
+
+
 * Zeor-shot Recommender Systems. _Amazon, ArXiv 2021, 12 Oct 2021._
   * **Paper link:** [https://arxiv.org/pdf/2105.08318.pdf](https://arxiv.org/pdf/2105.08318.pdf)
   * **Adopted language model:** BERT (340 milllion)
