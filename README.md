@@ -60,7 +60,9 @@
   * **Paper link:** [https://arxiv.org/pdf/2305.08845.pdf](https://arxiv.org/pdf/2305.08845.pdf)
   * **Adopted language model:** ChatGPT
 
-* 
+* Leveraging Large Language Models in Conversational Recommender Systems, _Google Research, ArXiv 2023, 16 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.07961.pdf](https://arxiv.org/pdf/2305.07961.pdf)
+  * **Adopted language model:** LaMDA (137 billlion)
 
 
 
