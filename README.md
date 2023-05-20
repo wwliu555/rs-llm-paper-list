@@ -4,14 +4,14 @@ This is an actively maintaing paper list on recommender systems with large langu
 
 ## Overview
 * [Related Survey paper](#Related-Survey-paper)
-* [LMs/LLMs for Semantic Enhancement](#LMs/LLMs-for-Semantic-Enhancement)
-* [LMs/LLMs for Knowledge Enhancement](#LMs/LLMs-for-Knowledge-Enhancement)
+* [LLMs for Semantic Enhancement](#LLLMs-for-Semantic-Enhancement)
+* [LLMs for Knowledge Enhancement](#LLMs-for-Knowledge-Enhancement)
 
 ### Related Survey paper
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, _Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023._
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
-### LMs/LLMs for Semantic Enhancement
+### LLMs for Semantic Enhancement
 * U-BERT: Pre-training user representations for improved recommendation, _Tencent, AAAI 2021, 18 May 2021._
   * **Paper link:** [https://ojs.aaai.org/index.php/AAAI/article/view/16557](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
   * **Adopted language model:** BERT (340 milllion)
@@ -30,7 +30,7 @@ This is an actively maintaing paper list on recommender systems with large langu
   * **Adopted language model:** BERT (340 million)
 
 
-### LMs/LLMs for Knowledge Enhancement
+### LLMs for Knowledge Enhancement
 * Language Models as Recommender Systems: Evaluations and Limitations, _Amazon, ICBINB@NeurIPS2021, 19 Oct 2021._
   * **Paper link:** [https://openreview.net/pdf?id=hFx3fY7-m9b](https://openreview.net/pdf?id=hFx3fY7-m9b)
   * **Adopted language model:** BERT (340 milllion) and GPT-2 (1.5 billion)
