@@ -48,9 +48,13 @@ This is an actively maintaing curated paper list on recommender systems with lar
   * **Paper link:** [https://arxiv.org/pdf/2303.14524.pdf](https://arxiv.org/pdf/2303.14524.pdf)
   * **Adopted language model:** ChatGPT
 
-* Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, _Singapore Management University. ArXiv 2023, 6 Apr 2023._
+* Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, _Singapore Management University, ArXiv 2023, 6 Apr 2023._
   * **Paper link:** [https://arxiv.org/pdf/2304.03153.pdf](https://arxiv.org/pdf/2304.03153.pdf)
   * **Adopted language model:** GPT-3 (175 billion)
+
+* Generative Recommendation: Towards Next-generation Recommender Paradigm, _National University of Singapore, ArXiv 2023, 7 Apr 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2304.03516.pdf](https://arxiv.org/pdf/2304.03516.pdf)
+  * **Adopted language model:** ChatGPT
 
 * TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, _University of Science and Technology of China, ArXiv 2023, 30 Apr 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.00447.pdf](https://arxiv.org/pdf/2305.00447.pdf)
