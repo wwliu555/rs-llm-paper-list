@@ -4,15 +4,15 @@ This is an actively maintaing curated paper list on recommender systems with lar
 
 ## Overview
 * [Related Survey Paper](#Related-Survey-paper)
-* [LLMs for Semantic Enhancement](#LLLMs-for-Semantic-Enhancement)
-* [LLMs for Knowledge Enhancement](#LLMs-for-Knowledge-Enhancement)
+* [LMs as Textual Encoder](#LMs-as-Textual-Encoder)
+* [LLMs as Recommender](#LLMs-as-Recommender)
 * [Related Paper Repo](#Related-Paper-Repo)
 
 ### Related Survey Paper
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, _Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023._
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
-### LLMs for Semantic Enhancement
+### LMs as Textual Encoder
 * U-BERT: Pre-training user representations for improved recommendation, _Tencent, AAAI 2021, 18 May 2021._
   * **Paper link:** [https://ojs.aaai.org/index.php/AAAI/article/view/16557](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
   * **Adopted language model:** BERT (340 milllion)
@@ -31,7 +31,7 @@ This is an actively maintaing curated paper list on recommender systems with lar
   * **Adopted language model:** BERT (340 million)
 
 
-### LLMs for Knowledge Enhancement
+### LLMs as Recommender
 * Language Models as Recommender Systems: Evaluations and Limitations, _Amazon, ICBINB@NeurIPS2021, 19 Oct 2021._
   * **Paper link:** [https://openreview.net/pdf?id=hFx3fY7-m9b](https://openreview.net/pdf?id=hFx3fY7-m9b)
   * **Adopted language model:** BERT (340 milllion) and GPT-2 (1.5 billion)
@@ -103,6 +103,10 @@ This is an actively maintaing curated paper list on recommender systems with lar
 * Leveraging Large Language Models in Conversational Recommender Systems, _Google Research, ArXiv 2023, 16 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.07961.pdf](https://arxiv.org/pdf/2305.07961.pdf)
   * **Adopted language model:** LaMDA (137 billlion)
+
+* Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models,  _Renmin University of China, ArXiv 2023, 22 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.13112.pdf](https://arxiv.org/pdf/2305.13112.pdf)
+  * **Adopted language model:** ChatGPT
 
 ### Related Paper Repo
 * [Recommender systems and pretrained models](https://github.com/archersama/awesome-recommend-system-pretraining-papers) by archersama
