@@ -108,6 +108,19 @@ This is an actively maintaing curated paper list on recommender systems with lar
   * **Paper link:** [https://arxiv.org/pdf/2305.13112.pdf](https://arxiv.org/pdf/2305.13112.pdf)
   * **Adopted language model:** ChatGPT
 
+* BookGPT: A General Framework for Book Recommendation Based on a Large Language Model, _AI for Science Institute, ArXiv 2023, 25 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.15673.pdf](https://arxiv.org/pdf/2305.15673.pdf)
+  * **Adopted language model:** ChatGPT
+
+* UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation, _The Chinese University of Hong Kong, ACL 2023 (short), May 25 2023._
+ * **Paper link:** [https://arxiv.org/pdf/2305.15756.pdf](https://arxiv.org/pdf/2305.15756.pdf)
+ * **Adopted language model:** BART (140 million)
+
+* Text Is All You Need: Learning Language Representations for Sequential Recommendation, _University of California, San Diego, KDD 2023, 26 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.13731.pdf](https://arxiv.org/pdf/2305.13731.pdf)
+  * **Adopted language model:** Longformer (102 million)
+
+
 ### Related Paper Repo
 * [Recommender systems and pretrained models](https://github.com/archersama/awesome-recommend-system-pretraining-papers) by archersama
 * [Recommender systems](https://github.com/creyesp/Awesome-recsys) by creyesp
