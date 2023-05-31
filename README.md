@@ -113,8 +113,8 @@ This is an actively maintaing curated paper list on recommender systems with lar
   * **Adopted language model:** ChatGPT
 
 * UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation, _The Chinese University of Hong Kong, ACL 2023 (short), May 25 2023._
- * **Paper link:** [https://arxiv.org/pdf/2305.15756.pdf](https://arxiv.org/pdf/2305.15756.pdf)
- * **Adopted language model:** BART (140 million)
+  * **Paper link:** [https://arxiv.org/pdf/2305.15756.pdf](https://arxiv.org/pdf/2305.15756.pdf)
+  * **Adopted language model:** BART (140 million)
 
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation, _University of California, San Diego, KDD 2023, 26 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.13731.pdf](https://arxiv.org/pdf/2305.13731.pdf)
