@@ -12,7 +12,7 @@ This is an actively maintaing curated paper list on recommender systems with lar
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, _Norwegian University of Science and Technology, ArXiv 2023, 15 Mar 2023._
   * **Paper link:** [https://arxiv.org/pdf/2302.03735.pdf](https://arxiv.org/pdf/2302.03735.pdf)
 
-* A Survey on Large Language Models for Recommendation, _ArXiv 2023, 1 Jun 2023._
+* A Survey on Large Language Models for Recommendation, _University of Science and Technology of China, ArXiv 2023, 1 Jun 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.19860.pdf](https://arxiv.org/pdf/2305.19860.pdf)
 
 ### LMs as Textual Encoders
