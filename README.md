@@ -14,6 +14,9 @@ This is an actively maintaing curated paper list on recommender systems with lar
 
 * A Survey on Large Language Models for Recommendation, _University of Science and Technology of China, ArXiv 2023, 1 Jun 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.19860.pdf](https://arxiv.org/pdf/2305.19860.pdf)
+ 
+* How Can Recommender Systems Benefit from Large Language Models: A Survey, _Shanghai Jiao Tong University, Huawei Noah's Ark Lab, ArXiv 2023, 12 June 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.05817.pdf](https://arxiv.org/pdf/2306.05817.pdf)
 
 ### LMs as Textual Encoders
 * U-BERT: Pre-training user representations for improved recommendation, _Tencent, AAAI 2021, 18 May 2021._
