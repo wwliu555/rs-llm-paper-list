@@ -125,6 +125,10 @@ This is an actively maintaing curated paper list on recommender systems with lar
 * Text Is All You Need: Learning Language Representations for Sequential Recommendation, _University of California, San Diego, KDD 2023, 26 May 2023._
   * **Paper link:** [https://arxiv.org/pdf/2305.13731.pdf](https://arxiv.org/pdf/2305.13731.pdf)
   * **Adopted language model:** Longformer (102 million)
+ 
+* Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, _Shanghai Jiao Tong University, Huawei Noah's Ark Lab, ArXiv 2023, 19 Jun 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.10933.pdf](https://arxiv.org/pdf/2306.10933.pdf)
+  
 
 
 ### Related Paper Repo
