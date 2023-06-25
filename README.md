@@ -126,6 +126,26 @@ This is an actively maintaing curated paper list on recommender systems with lar
   * **Paper link:** [https://arxiv.org/pdf/2305.13731.pdf](https://arxiv.org/pdf/2305.13731.pdf)
   * **Adopted language model:** Longformer (102 million)
  
+* Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations, _New York University, Google Research, ArXiv 2023, 2 Jun 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.01475.pdf](https://arxiv.org/pdf/2306.01475.pdf)
+  * **Adopted language model:** GPT-2 (1.5 billion)
+ 
+* Large Language Model Augmented Narrative Driven Recommendations, _University of Massachusetts, ArXiv 2023, 4 Jun 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.02250.pdf](https://arxiv.org/pdf/2306.02250.pdf)
+  * **Adopted language model:** InstructGPT (175 billion)
+ 
+* CTRL: Connect Tabular and Language Model for CTR Prediction, _Huawei Noah's Ark Lab, ArXiv 2023, 8 Jun 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.02841.pdf](https://arxiv.org/pdf/2306.02841.pdf)
+  * **Adopted language model:** RoBERTa (355 million)
+
+* A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, _Northwestern University, ArXiv 2023, 19 Jun 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.10702.pdf](https://arxiv.org/pdf/2306.10702.pdf)
+  * **Adopted language model:** ChatGPT
+
+* Generative Sequential Recommendation with GPTRec, _University of Glasgow, ArXiv 2023, 19 Jun 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2306.11114.pdf](https://arxiv.org/pdf/2306.11114.pdf)
+  * **Adopted language model:** GPT-2 (1.5 billion)
+ 
 * Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, _Shanghai Jiao Tong University, Huawei Noah's Ark Lab, ArXiv 2023, 19 Jun 2023._
   * **Paper link:** [https://arxiv.org/pdf/2306.10933.pdf](https://arxiv.org/pdf/2306.10933.pdf)
   
