@@ -38,6 +38,11 @@ This is an actively maintaing curated paper list on recommender systems with lar
 
 
 ### LLMs as Recommenders
+
+* LLMRec: Large Language Models with Graph Augmentation for Recommendation, _HKU&Baidu, WSDM 2024 Oral, 5 Nov 2023._
+  * **Paper link:** [https://arxiv.org/abs/2311.00423](https://arxiv.org/pdf/2311.00423.pdf)
+  * **Code link:** [https://github.com/HKUDS/LLMRec](https://github.com/HKUDS/LLMRec)
+    
 * Language Models as Recommender Systems: Evaluations and Limitations, _Amazon, ICBINB@NeurIPS2021, 19 Oct 2021._
   * **Paper link:** [https://openreview.net/pdf?id=hFx3fY7-m9b](https://openreview.net/pdf?id=hFx3fY7-m9b)
   * **Adopted language model:** BERT (340 milllion) and GPT-2 (1.5 billion)
