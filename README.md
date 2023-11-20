@@ -40,11 +40,11 @@ This is an actively maintaing curated paper list on recommender systems with lar
   * **Paper link:** [https://arxiv.org/pdf/2206.06190.pdf](https://arxiv.org/pdf/2206.06190.pdf)
   * **Adopted language model:** BERT (110M)
 
-* Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited, _Westlake University, SIGIR 2023, 23 Jul 2022._
+* Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited, _Westlake University, SIGIR 2023, 23 Jul 2023._
   * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3539618.3591932](https://dl.acm.org/doi/pdf/10.1145/3539618.3591932)
   * **Adopted language model:** RoBERTa (125 million) & BERT (110M) & OPT (125M)
 
-* Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, _Westlake University, WSDM 2024, 14 Aug 2022._
+* Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, _Westlake University, WSDM 2024, 4 Mar 2024._
   * **Paper link:** [https://arxiv.org/pdf/2305.15036.pdf](https://arxiv.org/pdf/2305.15036.pdf)
   * **Adopted language model:** RoBERTa (125 million) & BERT (110M)
 
