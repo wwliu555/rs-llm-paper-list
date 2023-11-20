@@ -26,7 +26,7 @@ This is an actively maintaing curated paper list on recommender systems with lar
 
 * Zeor-shot Recommender Systems. _Amazon, ArXiv 2021, 12 Oct 2021._
   * **Paper link:** [https://arxiv.org/pdf/2105.08318.pdf](https://arxiv.org/pdf/2105.08318.pdf)
-  * **Adopted language model:** BERT (340 milllion)
+  * **Adopted language model:** BERT (340 million)
 
 * Towards Universal Sequence Representation Learning for Recommender Systems, _Renmin University of China, KDD 2022, 14 Aug 2022._
   * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3534678.3539381?casa_token=aJ-Ili7OeaAAAAAA:Kn_qnglaBAxZ8NUCVtcQ7AqM7q5GyQdzvwc8D8mKyFG0mMbvocmw5VQDNuvL3AH9wb9onPzYPTw](https://dl.acm.org/doi/pdf/10.1145/3534678.3539381?casa_token=aJ-Ili7OeaAAAAAA:Kn_qnglaBAxZ8NUCVtcQ7AqM7q5GyQdzvwc8D8mKyFG0mMbvocmw5VQDNuvL3AH9wb9onPzYPTw)
@@ -35,6 +35,29 @@ This is an actively maintaing curated paper list on recommender systems with lar
 * Learning Vector-Qantized Item Representation for Transferable Sequential Recommenders,  _Renmin University of China, WWW 2023, 30 Apr 2023._
   * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3543507.3583434?casa_token=yETRRb_bSf4AAAAA:yuyiF-BgL6uyjwbSCdN0Zia7OifGeZ-vHku5zETltYl8vYhp2eiw6Z9IySBFVKPbK170LPrm1ac](https://dl.acm.org/doi/pdf/10.1145/3543507.3583434?casa_token=yETRRb_bSf4AAAAA:yuyiF-BgL6uyjwbSCdN0Zia7OifGeZ-vHku5zETltYl8vYhp2eiw6Z9IySBFVKPbK170LPrm1ac)
   * **Adopted language model:** BERT (340 million)
+
+* TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback, _University of Glasgow & Westlake University, Arxiv 2022, 13 Jun 2022._
+  * **Paper link:** [https://arxiv.org/pdf/2206.06190.pdf](https://arxiv.org/pdf/2206.06190.pdf)
+  * **Adopted language model:** BERT (110M)
+
+* Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited, _Westlake University, SIGIR 2023, 23 Jul 2022._
+  * **Paper link:** [https://dl.acm.org/doi/pdf/10.1145/3539618.3591932](https://dl.acm.org/doi/pdf/10.1145/3539618.3591932)
+  * **Adopted language model:** RoBERTa (125 million) & BERT (110M) & OPT (125M)
+
+* Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, _Westlake University, WSDM 2024, 14 Aug 2022._
+  * **Paper link:** [https://arxiv.org/pdf/2305.15036.pdf](https://arxiv.org/pdf/2305.15036.pdf)
+  * **Adopted language model:** RoBERTa (125 million) & BERT (110M)
+
+* Exploring the Upper Limits of Text-Based
+Collaborative Filtering Using Large Language
+Models: Discoveries and Insights, _Westlake University, Arxiv, 19 May 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2305.11700.pdf](https://arxiv.org/pdf/2305.11700.pdf)
+  * **Adopted language model:** OPT (125M ~ 175B)
+
+* NineRec: A Benchmark Dataset Suite for Evaluating Transferable
+Recommendation, _Westlake University, Arxiv, 20 Sep 2023._
+  * **Paper link:** [https://arxiv.org/pdf/2309.07705.pdf](https://arxiv.org/pdf/2309.07705.pdf)
+  * **Adopted language model:** RoBERTa (125 million) & BERT (110M) & OPT (125M)
 
 
 ### LLMs as Recommenders
